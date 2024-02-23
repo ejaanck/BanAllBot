@@ -2,6 +2,7 @@ import os
 import logging 
 from pyrogram import Client
 from config import Config 
+from BanAllBot import *
 
 # enable logging
 logging.basicConfig(
